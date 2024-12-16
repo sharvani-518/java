@@ -1,4 +1,4 @@
-i
+
 # Use the official OpenJDK image as the base image
 FROM openjdk:latest
 
